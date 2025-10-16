@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="faf28b4e-fe9f-4580-a52d-3a4a94c43c96" name="Changes" comment="" />
+    <list default="true" id="faf28b4e-fe9f-4580-a52d-3a4a94c43c96" name="Changes" comment="HW_11!">
+      <change afterPath="$PROJECT_DIR$/HW_12/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_12/test_check_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_12/test_modal_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_12/test_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_12/test_window_tab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LaurentDevec&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LaurentDevec/LaurentDevec-pythonProject-hometests.git&quot;,
+    &quot;accountId&quot;: &quot;551a6a2f-3276-4ffe-b057-a5a70a165ab3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="347KtifVBeQEdMwqzSJ1QKImCmT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +71,37 @@
       <option name="presentableId" value="Default" />
       <updated>1760559386620</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW_8!">
+      <option name="closed" value="true" />
+      <created>1760559692290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760559692290</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW_9!">
+      <option name="closed" value="true" />
+      <created>1760560470310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760560470310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW_11!">
+      <option name="closed" value="true" />
+      <created>1760561138576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760561138576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW_8!" />
+    <MESSAGE value="HW_9!" />
+    <MESSAGE value="HW_11!" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_11!" />
   </component>
 </project>
